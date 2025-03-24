@@ -6,8 +6,8 @@
 
 .robot-face-shape {
   text-align: center;
-  width: 300px;
-  height: 300px;
+  width: 18.75rem;
+  height: 18.75rem;
   background-color: #77c6c7;
   padding: 10px;
   margin: 10px;
@@ -70,8 +70,8 @@
 }
 
 .robot-nose {
-  width: 90px;
-  height: 45px;
+  width: 31%;
+  height: 17%;
   background: linear-gradient(
       217deg,
       rgba(255, 0, 0, 0.8),
@@ -136,6 +136,7 @@
   border-right: 50px solid transparent;
   position: relative;
   margin-top: 10px;
+  opacity: 0.3;
 }
 
 .robot-hair-three {
